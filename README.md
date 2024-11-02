@@ -8,7 +8,6 @@ A sleek, easy-to-use web app that leverages AI to provide concise summaries of l
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Setup and Installation](#setup-and-installation)
-- [Usage](#usage)
 - [Credits](#credits)
 
 ## Features
